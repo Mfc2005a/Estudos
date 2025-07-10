@@ -11,4 +11,4 @@ print ('Dados das pesseas')
 for pessoas in lista_pessoas:
     print('nome ', pessoas['nome'])
     print('peso ', pessoas['peso'])
-    print('idade ', pessoas['idade'])
+    print('idade ', pessoas['idade'])''
